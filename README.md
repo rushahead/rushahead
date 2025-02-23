@@ -9,6 +9,9 @@ Robotics, Autonomous Driving
 - I'm currently working on Autonomous Driving
 - I'm currently learning on data-driven planning
 
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rushahead&show_icons=true)
 <!--
 **rushahead/rushahead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
