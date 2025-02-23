@@ -13,18 +13,18 @@ Robotics, Autonomous Driving
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rushahead&show_icons=true)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20green)
-
-## 🛠 技术栈
+## 🛠 技术栈 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" hspace="4" title="Python 3"/>
+  
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" hspace="4" title="C++17/20"/>
+  
+  <!-- 机器人算法 -->
+  <img src="https://img.shields.io/badge/机器人_算法-FF6600?style=flat&logo=ros&logoColor=white" hspace="4" title="SLAM/路径规划"/>
 </p>
+
 
 
 
