@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/github-header-image.png" alt="Banner" />
+</div>
 
 ## Hi there 👋
 
