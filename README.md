@@ -12,6 +12,10 @@ Robotics, Autonomous Driving
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rushahead&show_icons=true)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 <!--
 **rushahead/rushahead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
