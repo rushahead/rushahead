@@ -22,7 +22,7 @@ Robotics, Autonomous Driving
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" hspace="4" title="C++17/20"/>
   
   <!-- 机器人算法 -->
-  <img src="https://img.shields.io/badge/机器人_算法-FF6600?style=flat&logo=ros&logoColor=white" hspace="4" title="SLAM/路径规划"/>
+  <img src="https://img.shields.io/badge/Robotics-FF6600?style=flat&logo=ros&logoColor=white" hspace="4" title="PnC"/>
 </p>
 
 
