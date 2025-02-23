@@ -5,11 +5,7 @@
 
 Robotics, Autonomous Driving
 
-
-<br />
 **About me** 
-
-<br />
 - I'm currently working on Autonomous Driving
 - I'm currently learning on data-driven planning
 
