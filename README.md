@@ -1,4 +1,13 @@
+
 ## Hi there 👋
+
+<br />
+
+Robotics, Autonomous Driving
+
+<br />
+- I'm currently working on Autonomous Driving
+- I'm currently learning on data-driven planning
 
 <!--
 **rushahead/rushahead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
